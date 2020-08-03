@@ -1,4 +1,4 @@
-package com.naver.www.springTest;
+package com.naver.www.testSpring;
 
 public class Greeter {
 	private String format;

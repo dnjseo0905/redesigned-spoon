@@ -5,10 +5,10 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.naver.www</groupId>
-  <artifactId>springTest</artifactId>
+  <artifactId>testSpring</artifactId>
   <version>0.0.1-SNAPSHOT</version>
 
-  <name>springTest</name>
+  <name>testSpring</name>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
 
@@ -19,11 +19,11 @@
   </properties>
 
   <dependencies>
-    <dependency>
+  <dependency>
         <groupId>org.springframework</groupId>
         <artifactId>spring-context</artifactId>
-        <version>5.0.5.RELEASE</version>
-     </dependency> 
+        <version>4.1.0.RELEASE</version>
+      </dependency>
     <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
